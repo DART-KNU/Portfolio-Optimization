@@ -17,3 +17,6 @@
 - [Optimization Techniques in Finance - 5. Convex Optimization II](https://mfe.baruch.cuny.edu/wp-content/uploads/2014/12/Opt_Lecture5_2019.pdf)
 - [Optimization Techniques in Finance - 6. Large scale optimization methods and machine learning. I](https://mfe.baruch.cuny.edu/wp-content/uploads/2014/12/Opt_Lecture6_2019.pdf)
 - [Optimization Techniques in Finance - 7. Large scale optimization methods and machine learning. II](https://mfe.baruch.cuny.edu/wp-content/uploads/2014/12/Opt_Lecture7_2019.pdf)
+
+## 3. Portfolio optimization with cvxpy
+- [portfolio_optimization.ipynb](https://colab.research.google.com/github/cvxgrp/cvx_short_course/blob/master/book/docs/applications/notebooks/portfolio_optimization.ipynb#scrollTo=fybZh8MXGNQe)
